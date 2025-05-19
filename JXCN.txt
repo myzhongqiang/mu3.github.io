@@ -1,7 +1,7 @@
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8" group-title="央视频道"
-CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8" group-title="央视频道"
-CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8" group-title="央视频道"
-CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8" group-title="央视频道"
+CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8" group-title="央视频道",CCTV1
+CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225642/index.m3u8" group-title="央视频道",CCTV1
+CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225643/index.m3u8" group-title="央视频道",CCTV2
+CCTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8" group-title="央视频道",CCTV2
 CCTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225634/index.m3u8
 CCTV3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
 CCTV4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
